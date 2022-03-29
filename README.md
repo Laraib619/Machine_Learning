@@ -1,11 +1,11 @@
 # Machine_Learning
 ## What is feature selection?
-Feature selection is nothing but optimal and best feture for machine learning models. and also  removing irrelevant or partially relevant features from the data.
+Feature selection is nothing more than selecting the best and most appropriate features for machine learning models, as well as deleting irrelevant or partially relevant characteristics from the data.
 ## Importance of feature selection.
 1.	It reduces the curse of dimensionality..
 2.	It minimizes the cost of computation 
-3.	It helps in interpreting and learning the model
-4.	It helps in achieving good results.
+3.	It aids in the understanding and application of the model.
+4.	It aids in the achievement of positive outcomes.
 ### Feature selection techniques are of two types.
 1.	Supervised feature selection 
 2.	Unsupervised feature selection
